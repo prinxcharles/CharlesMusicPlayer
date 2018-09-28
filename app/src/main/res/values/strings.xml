@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">Charles Music Player</string>
+    <string name="details">Details</string>
+    <string name="settings">Settings</string>
+    <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="tracks">Tracks</string>
+    <string name="track_image">Tracks Image</string>
+    <string name="songs">Songs</string>
+    <string name="albums">Albums</string>
+    <string name="artists">Artists</string>
+    <string name="artist">Artist</string>
+    <string name="genre">Genre</string>
+    <string name="thumbnail_description">Art</string>
+    <string name="playIcon_description">Play</string>
+    <string name="library">Library</string>
+    <string name="now_playing">Now Playing</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="pain_killer">Painkiller</string>
+    <string name="when_you_kiss_me">When You Kiss Me</string>
+    <string name="despacito">Despacito</string>
+    <string name="all_over">All Over</string>
+    <string name="nwa_baby">Nwa Baby</string>
+    <string name="im_the_one">I\'m The One</string>
+    <string name="in_my_feelings">In My Feelings</string>
+    <string name="farewell">Farewell</string>
+    <string name="house_on_fire">House On Fire</string>
+    <string name="try_sleeping_with_a_broken_heart">Try Sleeping With A Broken Heart</string>
+    <string name="sarkodie_ft_runtown">Sarkodie ft Runtown</string>
+    <string name="shania_twain">Shania Twain</string>
+    <string name="luis_fonsi">Luis Fonsi ft. DaddyYankee</string>
+    <string name="tiwa_savage">Tiwa Savage</string>
+    <string name="davido">Davido</string>
+    <string name="dj_khaled">DJ Khaled ft. Justin Bieber</string>
+    <string name="drake">Drake</string>
+    <string name="jcole">JCole</string>
+    <string name="sia">Sia</string>
+    <string name="alicia_keys">Alicia Keys</string>
+    <string name="one_album_one_track">1 album  1 track</string>
+    <string name="r_n_b_soul"><![CDATA[R&B/Soul]]></string>
+    <string name="country_pop">Country pop</string>
+    <string name="latin_pop">Latin pop</string>
+    <string name="afropop">Afropop</string>
+    <string name="hip_hop_r_n_b"><![CDATA[Hip-Hop/R&B]]></string>
+    <string name="hip_hop_rap">Hip-Hop/Rap</string>
+    <string name="pop">Pop</string>
+    <string name="contemporary_r_n_b"><![CDATA[Contemporary R&B]]></string>
+    <string name="highest">Highest</string>
+    <string name="up">Up</string>
+    <string name="daddy_k_the_mix">Daddy K - The Mix 11</string>
+    <string name="sugarcane">Sugarcane</string>
+    <string name="unknown">Unknown</string>
+    <string name="grateful">Grateful</string>
+    <string name="scorpion">Scorpion</string>
+    <string name="friday_nights_lights">Friday Night Lights</string>
+    <string name="this_is_acting">This is acting</string>
+    <string name="the_element_of_freedom">The Element Of Freedom</string>
+    <string name="sark_1">Sarkodie ft Runtown (1)</string>
+    <string name="shania_1">Shania Twain (1)</string>
+    <string name="luis_fonsi_1">Luis Fonsi ft. DaddyYankee (1)</string>
+    <string name="tiwa_savage_1">Tiwa Savage (1)</string>
+    <string name="davido_1">Davido (1)</string>
+    <string name="dj_khaled_1">DJ Khaled ft. Justin Bieber (1)</string>
+    <string name="drake_1">Drake (1)</string>
+    <string name="jcole_1">JCole</string>
+    <string name="sia_1">Sia (1)</string>
+    <string name="alicia_1">Alicia Keys (1)</string>
+    <string name="head_text">headText</string>
+    <string name="image_resource_id">imageResourceId</string>
+    <string name="description">description</string>
+    <string name="position">position</string>
+
+</resources>
